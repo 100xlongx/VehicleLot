@@ -1,7 +1,6 @@
 namespace VehicleLot {
     public class Car : Vehicle {
-
-        public string model;
+        public string gasQuality;
 
     }
 }

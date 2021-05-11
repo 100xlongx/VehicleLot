@@ -1,7 +1,10 @@
 namespace VehicleLot {
     public class Semi : Vehicle {
 
-        public string horsepower;
+        public string maximumLoad;
+        public bool deisel;
+
+
 
     }
 }
