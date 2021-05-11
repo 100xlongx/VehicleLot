@@ -1,5 +1,5 @@
 namespace VehicleLot {
-    public abstract class Vehicle {
+    public class Vehicle {
         protected string manufacturer = "Honda";
 
         public string getManufacturer() {
